@@ -304,12 +304,3 @@ function GoogleMapsDist(origin, destination) {
 
 */
 
-_________________________________________________________________
-*** CAUTION | DISCLAIMER ***
-
-This message and/or its attachment(s) may contain privileged and confidential information intended only for the use of the addressee named above. If you are not the intended recipient of this message, you are hereby notified that any use, dissemination, distribution or reproduction of this message is strictly prohibited. If you have received this message in error please notify DEC immediately. Any views expressed in this message are those of the individual sender and may not necessarily reflect the views of  DEC. More details available HERE.
-_________________________________________________________________
-DEC • Dynamic Environmental Corporation S.p.A.
-[Società per Azioni a socio unico, soggetta a direzione e coordinamento di DEC HOLDING]
-_________________________________________________________________
-solutions for a sustainable tomorrow
