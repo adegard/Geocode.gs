@@ -1,2 +1,2 @@
 # Geocode.gs
-Wmo climate API
+Wmo climate API for google sheet
